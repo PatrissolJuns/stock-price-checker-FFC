@@ -1,0 +1,34 @@
+{
+	"author": "Patrissol KENFACK",
+	"name": "stock-price-checker-fcc-api-project",
+	"version": "1.0.0",
+	"description": "This is my solution of Stock Price Checker FFC API Project",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.14.0",
+		"cors": "^2.8.1",
+		"body-parser": "^1.15.2",
+		"chai": "^3.5.0",
+		"mongodb": "^2.2.16",
+		"chai-http": "^3.0.0",
+		"mocha": "^3.2.0",
+		"zombie": "^5.0.5",
+		"helmet": "^3.1.0",
+		"request": "^2.88.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://githost.com/camper/repo.git"
+	},
+	"keywords": [
+		"node",
+		"stock",
+		"stock-price-checker",
+		"express",
+		"freecodecamp"
+	],
+	"license": "MIT"
+}
